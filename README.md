@@ -34,6 +34,9 @@ Geopandas
 XGBoost  
 SHAP  
 
+Actualización a 2026 
+Incluye las nuevas bases de datos actualizadas.
+
 ## Structure
 
 notebooks → machine learning experiments  
